@@ -1,0 +1,8 @@
+*.sln
+OpenCV/
+Robohacks.sdf
+Robohacks/
+x64/
+Aria/
+OpenCVKinect/
+packages/
